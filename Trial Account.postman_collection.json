@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "23494ecc-e24a-4d1b-8832-ad33bfad610a",
+		"name": "Trial Account",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Template Order Submit",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
